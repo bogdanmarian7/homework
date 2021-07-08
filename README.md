@@ -17,4 +17,4 @@ For python run the following commands to create and activate a separated environ
 ## After you created the environment run the following command to install pandas and jupyter:
 - pip install -r requirements.txt
 
-## Run the jupyter by typing jupyter notebook in cmd.
+## Run jupyter by typing jupyter notebook in cmd.
